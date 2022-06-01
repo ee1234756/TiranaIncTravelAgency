@@ -1,4 +1,4 @@
-# TiranaIncTravelAgency
+# TiranaInc. Travel Agency
 
 **_Project overview_**<br/>
     “Tirana Inc. Travel Agency” is a website designed and built for this course using client-side and server-side markup and scripting; CSS, HTML, JAVASCRIPT and PHP with a particular focus on PHP.
