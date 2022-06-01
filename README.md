@@ -1,7 +1,7 @@
 # TiranaInc. Travel Agency
 
 **_Project overview_**<br/>
-    “Tirana Inc. Travel Agency” is a website designed and built for this course using client-side and server-side markup and scripting; CSS, HTML, JAVASCRIPT and PHP with a particular focus on PHP.
+    **“Tirana Inc. Travel Agency”** is a website designed and built for this course using client-side and server-side markup and scripting; CSS, HTML, JAVASCRIPT and PHP with a particular focus on PHP.
 
 **_Purpose and scope of this specification_**<br/>
     The purpose of this website is to offer a company, that is, Tirana Inc.Travel Agency, a website where users can view information regarding the agency, signup and login to book packages that it offers, as well as other features. It also includes a different login page where the admin could login using credentials on the database and access client data as well as manage packages, agents and other functionalities. It offers multi-user access.
