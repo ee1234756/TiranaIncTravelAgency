@@ -9,4 +9,4 @@
 **_CONTEXT_**<br/>
     It has a simple, and yet elegant front-end design using front-end frameworks, that is bootstrap and jquery, to facilitate the working process but also manage features like mobile view, animation etc. which alter the overall user experience. Although front-end frameworks are used and referenced on the website folder, tweaks and further designs are also implemented to apply changes according to the vision I had crafted upon planning this project. It is true that this web-site is fully functional for the thought functionalities, but it is worth mentioning that because of the time frame of this project limit, further changes can be made and other features could be implemented to make it more advanced. That being said, the website could be used for a travel agency and it fully implements the pre-planned functional requirements.
 
-![](bcg.jpg)
+![](Sem 4/WEB TECHNOLOGIES AND PROGRAMMING/PROJECT/Screenshots/Main page sc1.jpg)
